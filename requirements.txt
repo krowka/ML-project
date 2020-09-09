@@ -9,3 +9,4 @@ matplotlib
 mlxtend
 seaborn
 notebook
+tensorflow
